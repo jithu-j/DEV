@@ -1,0 +1,7 @@
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/dto/ProductRequest.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/dto/ProductResponse.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/model/Product.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/ProductServiceApplication.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/service/ProductService.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/controller/ProductController.java
+/Users/jithuj/IdeaProjects/microservices-new/product-service/src/main/java/com/persproj/productservice/repository/ProductRepository.java

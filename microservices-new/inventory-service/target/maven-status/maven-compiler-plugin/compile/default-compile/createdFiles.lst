@@ -1,0 +1,5 @@
+com/persproj/inventoryservice/controller/InventoryController.class
+com/persproj/inventoryservice/service/InventoryService.class
+com/persproj/inventoryservice/repository/InventoryRepository.class
+com/persproj/inventoryservice/InventoryServiceApplication.class
+com/persproj/inventoryservice/model/Inventory.class

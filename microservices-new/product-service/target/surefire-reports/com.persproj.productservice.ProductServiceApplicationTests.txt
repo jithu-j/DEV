@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.persproj.productservice.ProductServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.949 s - in com.persproj.productservice.ProductServiceApplicationTests
